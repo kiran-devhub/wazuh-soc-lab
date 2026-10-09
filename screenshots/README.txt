@@ -1,4 +1,4 @@
-Placing project evidence screenshots in this directory.
+Placing soon project evidence screenshots in this directory.
 
 Recommended:
 1. custom-alert-dashboard.png
